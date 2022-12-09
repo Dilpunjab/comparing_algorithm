@@ -1,5 +1,5 @@
 # To open a 
-## Locate the zip file
+Locate the zip file
 Open NetBeans IDE
 Click “File”, then “Import Project”, then select “From ZIP
 Click “Browse” and lookup your zip file. Once you find your file, select it and click “Open”.
