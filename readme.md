@@ -1,5 +1,5 @@
 # To open project
-Locate the zip file <\br>
+Locate the zip file <br/>
 Open NetBeans IDE
 Click “File”, then “Import Project”, then select “From ZIP
 Click “Browse” and lookup your zip file. Once you find your file, select it and click “Open”.
