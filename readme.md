@@ -7,10 +7,10 @@ You should now see your imported project on your project list in IntelliJ. <br/>
 Build the project <br/>
 Run the project from run tab. <br/> <br/>
 
-#Presentation / Demo<br/>
+# Presentation / Demo 
 I have a youtube Video of presentation and how to run the project.<br/><br/>
 
 ## Why Zip file
-I was not able to upload all the files on github, so I zip the files and pushed files on GitHub
+I was not able to upload all the files on github, so I zip the files and pushed files on GitHub<br/>
 
 
